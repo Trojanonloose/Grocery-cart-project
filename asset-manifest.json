@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Grocery-cart-project/static/css/main.aa8405e7.css",
+    "main.js": "/Grocery-cart-project/static/js/main.f4cb0b3d.js",
+    "index.html": "/Grocery-cart-project/index.html",
+    "main.aa8405e7.css.map": "/Grocery-cart-project/static/css/main.aa8405e7.css.map",
+    "main.f4cb0b3d.js.map": "/Grocery-cart-project/static/js/main.f4cb0b3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa8405e7.css",
+    "static/js/main.f4cb0b3d.js"
+  ]
+}
